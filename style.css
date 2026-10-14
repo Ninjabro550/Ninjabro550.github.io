@@ -1,1 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Ink:wght@100..900&display=swap');
 
+body {
+  font-family: "Bitcount Ink", sans-serif;
+  text-align: center;
+  font-weight: 900; 
+   color: rgb(60, 119, 214);
+}
