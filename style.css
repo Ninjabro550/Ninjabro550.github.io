@@ -3,8 +3,5 @@
 body {
   font-family: "Syncopate", sans-serif;
   text-align: center;
-  font-weight: 700; /* Standard max bold setting */
-  color: rgb(60, 119, 214);
-  text-transform: uppercase; /* Wide fonts look exceptionally clean in all caps */
-  letter-spacing: 2px; /* Adds extra breathing room between letters */
+  font-weight: 700; 
 }
